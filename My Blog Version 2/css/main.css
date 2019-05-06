@@ -1,0 +1,70 @@
+body{
+	padding: 0 30px 0 30px;
+	background-color:rgba(0,0,0,0.05);
+	line-height: 1.5em;
+}
+a{
+	text-decoration:none;
+	color:black;
+	text-align:left;
+}
+header{
+	height:100px;
+}
+header img{
+	float:left;
+	padding-right:20px;
+}
+header h2{
+	text-align: center;
+	padding-top: 30px;
+}
+.main_content{
+	overflow:auto;
+	width:1280px;
+	margin:0 auto;
+	background-color:white;
+}
+
+.role_today{
+	width:600px;
+	padding-left:10px;
+	text-align:justify;
+}
+.roles_home_going{
+	width:600px;
+	padding-right:10px;
+	text-align:justify;
+}
+.roles_police_sa{
+	width:600px;
+	padding-right:10px;
+	text-align:justify;
+}
+.role_police_kenya{
+	width:600px;
+	padding-left:10px;
+	text-align:justify;
+}
+.panel{
+	float:left;
+}
+.floatimg{
+	float:left;
+	padding-right:20px;
+}
+
+footer{
+	text-align:center;
+	padding:10px 0;
+}
+
+.content{
+	width:1000px;
+	margin:0 auto;
+	background-color:rgb(255,255,255);
+	padding:5px;
+}
+.content h2{
+	text-align:left;
+}
